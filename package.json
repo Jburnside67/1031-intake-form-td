@@ -1,0 +1,13 @@
+{
+  "name": "1031-exchange-vercel-final-v3",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "vite": "^4.5.0"
+  }
+}
